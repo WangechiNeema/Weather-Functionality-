@@ -74,6 +74,9 @@
       </button>
       <button id="button1">Get Current Location</button>
     </div>
+    <p>
+      githubrepositorylink:https://github.com/WangechiNeema/Weather-Functionality-
+    </p>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script>
       let days = [
